@@ -1011,20 +1011,20 @@ ul li.item-menu a .icon>img {
     margin-bottom: 20px;
 }
 .titulos {
-    margin-left: 20%;
-    margin-right: 20%;
+
     text-align: left;
     font-size: 40px;
     margin-bottom: 40px;
 }
-.pgnoticias {
-    max-width: 100px;
-    margin-left: 100px;
-    
-    text-align: justify;
-    font-size: 25px;
+
+.textnotice {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-    text-wrap: wrap;
+    break-before: auto;
+    break-after: auto;
 }
 .ultimas-noticias {
     margin-left: 18%;
